@@ -53,6 +53,9 @@ Output:
 - The GitHub API has rate limits. If you exceed the limit, you may need to wait before making additional requests.
 - The script only fetches public events. Private events are not accessible via the GitHub Events API.
 
+## Source
+This project is based on the [GitHub User Activity](https://roadmap.sh/projects/github-user-activity) project.
+
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
